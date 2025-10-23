@@ -185,8 +185,7 @@ except KeyboardInterrupt:
 ### OUTPUT SCREENSHOTS
 ![Screenshot 2025-03-28 162105](https://github.com/user-attachments/assets/956eb015-9d9e-4505-90a5-16d48d5a78f9)
 
-![Screenshot 2025-03-28 162117](https://github.com/user-attachments/assets/e558a171-712b-47c8-8265-884521a8ed31)
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/49150de9-8b76-4b13-9ab1-ef91f297efe3" 
 
 ## Results
 
